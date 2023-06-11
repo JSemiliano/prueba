@@ -1,1 +1,1 @@
-Este repositorio va a ser utilizado para practicar git y github 
+Este repositorio va a ser utilizado para practicar Git y GitHub. Saludos! 
